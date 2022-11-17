@@ -12,11 +12,12 @@ This is a website which logically displays reviews for animals and restaurants i
 
 - [The Squealing Pig](restaurants/the_squealing_pig.md)
 
+- [Yard house](yard_place.md)
 
 ### Asian
 
 - [TBaar](restaurants/tbaar.md)
-
+-[The Thai](restaurants/the_Thai.md)
 
 ## Animals
 
