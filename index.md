@@ -21,9 +21,3 @@ This is a website which logically displays reviews for animals and restaurants i
 ## Animals
 
 All animals can be found in [this table](animals/animal_reviews.md)
-
-### Indian Food
-
-- [Halal indian res](restaurants/the_halal_indian.md)
-
-
